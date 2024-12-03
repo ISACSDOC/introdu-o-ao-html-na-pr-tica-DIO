@@ -83,6 +83,10 @@ Talvez você tenha percebido que eu usei a tag strong e a tag i dentro da tag h1
 ```
 <img src ="imagens md/meu primeiro título em negrito e itálico.png">
 
+![Static Badge](https://img.shields.io/badge/Conhe%C3%A7a%20as%20principais%20tags%20-%20HTML?style=for-the-badge&color=blue&link=https%3A%2F%2Fwww.brasilcode.com.br%2Ftags-html-conhecas-as-principais-e-mais-usadas%2F)
+
+
+
 ## Atributos
 Os atributos no HTML dão características específicas. Um exemplo seria a tag input com o atributo type. A tag input é uma tag de entrada, ou seja, alguma coisa será inserida, enquanto o atributo type vai definir o que vai ser inserido:
 ```
@@ -109,3 +113,5 @@ Esse mesmo input poderia ter um novo type, por exemplo, o number. Nesse caso, ap
 </body>
 </html>
 ```
+<img src ="imagens md/input number.png">
+
