@@ -95,4 +95,17 @@ Os atributos no HTML dão características específicas. Um exemplo seria a tag 
 </body>
 </html>
 ```
+<img src ="imagens md/caixa de entrada de texto.png">
+
 Nesse caso, o input é uma caixa de entrada do tipo "text", ou seja, vai ser inserido um texto.
+Esse mesmo input poderia ter um novo type, por exemplo, o number. Nesse caso, apenas números seriam inseridos:
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+   <input type="number">
+</body>
+</html>
+```
