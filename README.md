@@ -80,6 +80,6 @@ Talvez você tenha percebido que eu usei a tag strong e a tag i dentro da tag h1
 </html>
 
 ```
-
+<img src ="imagens md/meu primeiro título em negrito e itálico.png">
 
 
