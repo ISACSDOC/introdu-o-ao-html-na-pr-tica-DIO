@@ -1,4 +1,4 @@
-# Introdução-ao-HTML-na-prática-DIO
+# Introdução ao HTML na prática DIO
 Atividades do curso de introdução ao html na prática pela DIO
 
 ## Composição de um HTML
@@ -43,7 +43,7 @@ Uma tag comum para o body (a parte que será visível para o usuário do site) �
     </body>
 </html>
 ```
-<img src = "imagens md/meu primeiro título.png">
+<img src = "imagens md/meu primeiro título1.png">
 É possível estilizar esse título dentro do próprio html. Por exemplo, você pode deixar em itálico:
 
 ```
