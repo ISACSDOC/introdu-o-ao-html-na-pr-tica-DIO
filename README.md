@@ -83,7 +83,8 @@ Talvez você tenha percebido que eu usei a tag strong e a tag i dentro da tag h1
 ```
 <img src ="imagens md/meu primeiro título em negrito e itálico.png">
 
-[![Static Badge](https://img.shields.io/badge/Conhe%C3%A7a%20as%20principais%20tags%20-%20HTML?style=for-the-badge&color=blue)](https://www.brasilcode.com.br/tags-html-conhecas-as-principais-e-mais-usadas/)
+[![Static Badge](https://img.shields.io/badge/Conhe%C3%A7a%20as%20principais%20tags%20-%20HTML?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=blue)
+](https://www.brasilcode.com.br/tags-html-conhecas-as-principais-e-mais-usadas/)
 
 
 
