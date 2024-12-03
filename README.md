@@ -55,4 +55,17 @@ Uma tag comum para o body (a parte que será visível para o usuário do site) �
   </body>
 </html>
 
+```
+<img src = "imagens md/meu primeiro título em itálico.png">
+
+Além disso, também é possível deixar esse título em negrito:
+
+```
+<html>
+ <head></head>
+ <body>
+     <h1><strong>Meu primeiro título em negrito</strong></h1>
+ </body>
+</html>
+
 
