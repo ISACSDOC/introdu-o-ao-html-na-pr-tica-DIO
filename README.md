@@ -30,6 +30,7 @@ Após apertar enter, vai sair:
 </html>
 ```
 
+## Tags
 O HTML possui tags (exemplo: ``<h1>``)
 A maioria das tags possuem um início ``<i>`` e um fechamento ``</i>``.
 
@@ -82,4 +83,16 @@ Talvez você tenha percebido que eu usei a tag strong e a tag i dentro da tag h1
 ```
 <img src ="imagens md/meu primeiro título em negrito e itálico.png">
 
-
+## Atributos
+Os atributos no HTML dão características específicas. Um exemplo seria a tag input com o atributo type. A tag input é uma tag de entrada, ou seja, alguma coisa será inserida, enquanto o atributo type vai definir o que vai ser inserido:
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+   <input type="text">
+</body>
+</html>
+```
+Nesse caso, o input é uma caixa de entrada do tipo "text", ou seja, vai ser inserido um texto.
