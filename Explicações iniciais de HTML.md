@@ -68,4 +68,18 @@ Além disso, também é possível deixar esse título em negrito:
  </body>
 </html>
 
+```
+Talvez você tenha percebido que eu usei a tag strong e a tag i dentro da tag h1, assim juntou os atributos. Isso significa que você pode juntar as 3 tags também, tornando o título em itálico e em negrito:
+
+```
+<html>
+ <head></head>
+ <body>
+    <h1><strong><i>Meu primeiro título em negrito e itálico</i></strong></h1>
+ </body>
+</html>
+
+```
+
+
 
