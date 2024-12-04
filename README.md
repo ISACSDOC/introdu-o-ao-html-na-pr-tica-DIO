@@ -129,7 +129,7 @@ As tags iniciais são a de parágrafo (p), a de destaque (mark), a de citação 
 </body>
 </html>
 ```
-
+<img src ="imagens md/tag parágrafo.png">
 
 ```
 <html lang="pt-BR">
@@ -141,6 +141,7 @@ As tags iniciais são a de parágrafo (p), a de destaque (mark), a de citação 
 </body>
 </html>
 ```
+<img src ="imagens md/exemplo tag mark.png">
 
 ```
 <html lang="pt-BR">
@@ -153,6 +154,7 @@ As tags iniciais são a de parágrafo (p), a de destaque (mark), a de citação 
 </body>
 </html>
 ```
+<img src ="imagens md/tag citação.png">
 
 ```
 <html lang="pt-BR">
@@ -164,6 +166,7 @@ As tags iniciais são a de parágrafo (p), a de destaque (mark), a de citação 
 </body>
 </html>
 ```
+<img src ="imagens md/sobrescrição.png">
 
 ```
 <html lang="pt-BR">
@@ -175,4 +178,4 @@ As tags iniciais são a de parágrafo (p), a de destaque (mark), a de citação 
 </body>
 </html>
 ```
-
+<img src ="imagens md/subscrição.png">
