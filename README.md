@@ -202,6 +202,7 @@ O HTML permite que você coloque listas com uma ordem de enumeração (ol) e lis
 </body>
 </html>
 ```
+<img src ="imagens md/ol.png">
 
 ```
 <html lang="pt-BR">
@@ -223,3 +224,4 @@ O HTML permite que você coloque listas com uma ordem de enumeração (ol) e lis
 </body>
 </html>
 ```
+<img src ="imagens md/ul.png">
