@@ -1,5 +1,5 @@
 # Introdução ao HTML na prática DIO
-Atividades do curso de introdução ao html na prática pela DIO
+Atividades do curso de introdução ao html na prática pela DIO e pontos importantes das aulas.
 
 ## Composição de um HTML
 Composto por uma cabeça (head) e por um corpo (body)
@@ -116,4 +116,63 @@ Esse mesmo input poderia ter um novo type, por exemplo, o number. Nesse caso, ap
 </html>
 ```
 <img src ="imagens md/input number.png">
+
+## Tags iniciais de Textos
+As tags iniciais são a de parágrafo (p), a de destaque (mark), a de citação (blockquote) e as de subscrição (sub) e sobrescrição (sup).
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <p>Aqui nós temos uma tag de parágrafo, ou seja, um texto longo que tem que ser quebrado. Eu não sei o que eu posso escrever aqui para deixar de exemplo, então eu estou só enrolando para ser o suficiente.</p>
+</body>
+</html>
+```
+
+
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <mark>Exemplo para destaque</mark>
+</body>
+</html>
+```
+
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <p>Exemplo abaixo para citação:</p>
+    <blockquote>Você está lendo um exemplo da tag citação.</blockquote>
+</body>
+</html>
+```
+
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <p>Exemplo para sobrescrição<sup>Esse é um exemplo de sobrescrição</sup></p>
+</body>
+</html>
+```
+
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <p>Exemplo para sobrescrição<sub>Esse é um exemplo de subscrição</sub></p>
+</body>
+</html>
+```
 
