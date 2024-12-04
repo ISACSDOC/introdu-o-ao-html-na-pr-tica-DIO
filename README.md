@@ -179,3 +179,47 @@ As tags iniciais são a de parágrafo (p), a de destaque (mark), a de citação 
 </html>
 ```
 <img src ="imagens md/subscrição.png">
+
+## Listas Ordenadas e Não-Ordenadas
+O HTML permite que você coloque listas com uma ordem de enumeração (ol) e listas sem ordem de enumeração (ul), além de permitir que você coloque listas (li) dentro de outras listas.
+
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <p>Exemplo de lista ordenada:</p>
+    <ol>
+       <li>Item ordenado 1</li>
+       <li>Item ordenado 2
+            <ol>
+               <li>Item 1 dentro de uma lista ordenada dentro de outra lista ordenada</li>
+                <li>Item 2 dentro de uma lista ordenada dentro de outra lista ordenada</li>
+            </ol>
+        </li>
+    </ol>
+</body>
+</html>
+```
+
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+
+    <p>Exemplo de lista não-ordenada:</p>
+    <ul>
+       <li>Item não-ordenado 1</li>
+       <li>Item não-ordenado 2
+            <ul>
+               <li>Item 1 dentro de uma lista não-ordenada dentro de outra lista não-ordenada</li>
+                <li>Item 2 dentro de uma lista não-ordenada dentro de outra lista não-ordenada</li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>
+```
