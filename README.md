@@ -2,7 +2,7 @@
 Atividades do curso de introdução ao html na prática pela DIO e pontos importantes das aulas.
 
 ![Static Badge](https://img.shields.io/badge/Conhe%C3%A7a%20mais%20sobre%20o%20HTML%20-html?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isadora-mendes-3b8605336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-mendes-3b8605336/)
 
 ## Composição de um HTML
 Composto por uma cabeça (head) e por um corpo (body)
