@@ -242,7 +242,7 @@ Você pode adicionar links dentro do seu site para que as pessoas possam navegar
 </body>
 </html>
 ```
-
+<img src="imagens md/tag a.png">
 
 No entanto, apenas dessa forma o link vai ser aberto na própria página. Caso você queira que abra em uma nova página, você usa um atributo chamado target e escolhendo a opção blank.
 
