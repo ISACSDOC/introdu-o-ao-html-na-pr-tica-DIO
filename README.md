@@ -1,6 +1,9 @@
 # Introdução ao HTML na prática DIO
 Atividades do curso de introdução ao html na prática pela DIO e pontos importantes das aulas.
 
+![Static Badge](https://img.shields.io/badge/Conhe%C3%A7a%20mais%20sobre%20o%20HTML%20-html?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isadora-mendes-3b8605336)
+
 ## Composição de um HTML
 Composto por uma cabeça (head) e por um corpo (body)
  ```
@@ -225,3 +228,30 @@ O HTML permite que você coloque listas com uma ordem de enumeração (ol) e lis
 </html>
 ```
 <img src ="imagens md/ul.png">
+
+## Links no seu site
+Você pode adicionar links dentro do seu site para que as pessoas possam navegar na internet. Você pode fazer isso usando a tag ancora (a).
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <a href="https://www.w3schools.com/html/default.asp">Conheça mais sobre HTML no W3SCHOOLS</a>
+</body>
+</html>
+```
+
+
+No entanto, apenas dessa forma o link vai ser aberto na própria página. Caso você queira que abra em uma nova página, você usa um atributo chamado target e escolhendo a opção blank.
+
+```
+<html lang="pt-BR">
+<head>
+    <title>Introdução ao HTML</title>
+</head>
+<body>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank">Conheça mais sobre HTML no W3SCHOOLS</a>
+</body>
+</html>
+```
